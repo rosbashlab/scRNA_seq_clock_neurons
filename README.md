@@ -9,5 +9,3 @@ For more details, please see:
 
 Dingbang Ma, Dariusz Przybylski, Katharine C. Abruzzi, Matthias Schlichting, Qunlong Li, Xi Long, Michael Rosbash
 doi: https://doi.org/10.1101/2020.09.15.297051
-
-https://www.biorxiv.org/content/10.1101/2020.09.15.297051v1.full
